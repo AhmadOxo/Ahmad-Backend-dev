@@ -19,6 +19,4 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=AhmadOxo&show_icons=true&theme=tokyonight)](https://github.com/AhmadOxo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadOxo&langs_count=6&theme=tokyonight)](https://github.com/AhmadOxo)
 
-<img src="https://raw.githubusercontent.com/Ahmadoxo/Ahmadoxo/output/snake.svg" alt="Snake animation" />
 
-###
